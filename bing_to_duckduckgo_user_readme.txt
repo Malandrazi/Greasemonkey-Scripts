@@ -1,0 +1,1 @@
+Simple script to have Cortana use Duck Duck Go search engine, it still executes bing first.
