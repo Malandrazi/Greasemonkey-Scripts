@@ -1,2 +1,2 @@
-# Greasmonkey-Script
-A simple script to redirect Cortana's searches to duckduckgo search engine.
+# Greasemonkey-Scripts
+Scripts for the Mozilla Firefox extension Greasemonkey.
